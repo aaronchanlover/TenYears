@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/tt">
+    <TextView android:id="@+id/tvfifthPage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#666666"
+        android:text="一个鲜活的生命诞生在我们家，这是上帝送给我们最好的礼物。或许因为她的出现给我们带来诸多的苦恼，也因为她的出现给我们带来了更多的欢笑，因为她的出现让我的人生出现了第二个奋斗的理由。"/>
+
+</LinearLayout>

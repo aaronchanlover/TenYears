@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/jiehun">
+     
+    <TextView android:id="@+id/tvthirdPage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:layout_alignParentTop="true"
+        android:lineSpacingExtra="1.5dp"
+        android:lineSpacingMultiplier="1.5"
+        android:textColor="#666666"
+        android:text="我们坚守着爱情携手走进了婚姻的殿堂。在这不到7年的风风雨雨中充满了我们的欢笑与泪水，我们仍然一如既往的携手共进。"/>
+
+ <TextView
+     android:id="@+id/tvthirdPage1"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_alignParentBottom="true"
+     android:layout_alignParentLeft="true"
+     android:layout_marginBottom="22dp"
+     android:lineSpacingExtra="1.5dp"
+     android:lineSpacingMultiplier="1.5"
+     android:text="刚出社会的我没有什么经济基础，无法给你梦寐以求的教堂，但这简陋的婚礼却见证我们爱情的永恒。"
+     android:textSize="16sp"
+        android:textColor="#666666"
+     android:textStyle="bold" />
+    
+</RelativeLayout>

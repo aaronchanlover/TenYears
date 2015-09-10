@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/huaiyun">
+    <TextView android:id="@+id/tvfourPage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp" 
+        android:textSize="16sp"
+        android:layout_alignParentTop="true"
+        android:lineSpacingExtra="1.5dp"
+        android:lineSpacingMultiplier="1.5"
+        android:textColor="#666666"
+        android:text="爱情的甜蜜结出了幸福的果实，让我成为你们的守护天使永远的守护着你们"/>
+
+</LinearLayout>

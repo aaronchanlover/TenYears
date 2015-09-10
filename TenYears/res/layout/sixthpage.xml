@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/renshenglu">
+    <TextView android:id="@+id/tvsixthPage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp" 
+        android:textSize="20sp"
+        android:layout_alignParentTop="true"
+        android:lineSpacingExtra="2dp"
+        android:lineSpacingMultiplier="2"
+        android:textColor="#666666"
+        android:text="在漫漫的人生路上我会牵住你的手直到白发渐渐的爬到我们的额头，请允许我许下我一生的诺言：也许我不是最好的,但是我能给你 的永远是我最好的。"/>
+
+</LinearLayout>

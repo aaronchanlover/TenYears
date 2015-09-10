@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/kaishi">
+
+    <TextView
+        android:id="@+id/tvFirstPage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="60dp"
+        android:lineSpacingExtra="2dp"
+        android:lineSpacingMultiplier="2"
+        android:text="幸福悄悄的降临，将你和我的人生轨迹交织在一起，就这样我们迈出了我们的十年的第一步"
+        android:textSize="20sp"
+        android:textColor="#666666"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvFirstPage1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="124dp" 
+        android:lineSpacingExtra="2dp"
+        android:lineSpacingMultiplier="2"
+        android:text="2005年3月24日"
+        android:textColor="#666666"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

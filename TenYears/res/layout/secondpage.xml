@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/biye">
+
+    <TextView
+        android:id="@+id/tvsecondPage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:lineSpacingExtra="2dp"
+        android:lineSpacingMultiplier="2"
+        android:textColor="#666666"
+        android:text="在那青涩的毕业季，我们的第一个岔口出现了：是各奔前程还是坚守我们脆弱的爱情。我选择了宁波的大学，因为这座有了你而变得与众不同。" />
+
+</LinearLayout>
